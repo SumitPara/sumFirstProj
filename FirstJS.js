@@ -6,6 +6,7 @@ month = (month * 1) + 1
 day = test.getDate()
 year = test.getFullYear()
 sumitvar = "sumit parashar"
+adobevar = "Adobe"
 document.write(" ",month,"/",day,"/",year," ")
 // end hiding script from old browsers -->
 </SCRIPT>
